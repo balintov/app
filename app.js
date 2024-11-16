@@ -5048,6 +5048,11 @@ var recept = {
 				"name": "fehér csokoládé durvára vágva",
 				"quantity": 100,
 				"mertekegyseg": "gramm"
+			},
+			9: {
+				"name": "finomliszt",
+				"quantity": 300,
+				"mertekegyseg": "gramm"
 			}
 		},
 		"elkeszites": ["Előmelegítjük a sütőt légkeverésen 200 fokra (220 fok / 7. gázfokozaton)","A <strong>pisztáciát</strong> sütőlemezre tesszük, és a sütőben 10 percig pirítjuk. Kivesszük és félretesszük","A sütő hőmérsékletét levesszük légkeverésen 170 fokra (190 fokra / 5 gázfokozat). Egy nagy, lapos tepsit kibélelünk sütőpapírral.","Összeszitáljuk a <strong>lisztet</strong>, a <strong>sütőport</strong> és a <strong>sót</strong>. Nagy tűéban felverjük a <strong>tojásokat</strong> és a <strong>cukrot</strong>, amíg könnyű és krémes lesz. Belekeverjük a <strong>tejszínt</strong>, majd beleforgatjuk a lisztes keveréket. Hozzáadjuk a <strong>csokoládét</strong> és a pirított <strong>pisztáciát</strong> és jól összekeverjük, hogy tésztát kapjunk.","A tésztát kettéosztjuk és mindkettőből kb. 35 cm hosszú és 5 cm széles hengert formázunk. Az előkészített tepsire helyezzük és 15 percig sütjük őket sütőben.","Kivesszük a sütőből és éles késsel mindkét henger alakú darabot kicsit ferdén kb. 2 cm-es szeletekre vágjuk. A szeleteket fektetve elrendezzük a tepsin, és visszatessük a sütőbe 10 percre vagy amíg ropogósra sülnek. Kivesszük a sütőből, hagyjuk kihűlni, majd tálaljuk. Légmentesen záródó edényben tárolva akár egy hétig is eláll."
@@ -6380,6 +6385,576 @@ var recept = {
 			"napszak": ["ebéd", "vacsora"]
 		},
 		"link": "https://streetkitchen.hu/karacsony/karacsonyi-halas-receptek/fogas-karpati-modra/"
+	},
+	97 : {
+		"name": "Favágóleves",
+		"szemelyszam": 2,
+		"hozzavalok": {
+			1: {
+				"name": "kenyérszalonna",
+				"quantity": 40,
+				"mertekegyseg": "grammm"
+			},
+			2: {
+				"name": "sertéslapocka",
+				"quantity": 200,
+				"mertekegyseg": "gramm"
+			},
+			3: {
+				"name": "hagyma",
+				"quantity": 1/2,
+				"mertekegyseg": "fej"
+			},
+			4: {
+				"name": "fokhagyma",
+				"quantity": 1,
+				"mertekegyseg": "gerezd"
+			},
+			5: {
+				"name": "őrölt fűszerkömény",
+				"quantity": 2,
+				"mertekegyseg": "gerezd"
+			},
+			6: {
+				"name": "sűrített paradicsom",
+				"quantity": 2,
+				"mertekegyseg": "tk"
+			},
+			7: {
+				"name": "pirospaprika",
+				"quantity": 1,
+				"mertekegyseg": "mk"
+			},
+			8: {
+				"name": "liszt",
+				"quantity": 2,
+				"mertekegyseg": "tk"
+			},
+			9: {
+				"name": "só bors",
+				"quantity": "",
+				"mertekegyseg": ""
+			},
+			10: {
+				"name": "víz vagy alaplé",
+				"quantity": 600,
+				"mertekegyseg": "ml"
+			},
+			11: {
+				"name": "sárgarépa",
+				"quantity": 1,
+				"mertekegyseg": "szál"
+			},
+			12: {
+				"name": "fehérrépa",
+				"quantity": 1,
+				"mertekegyseg": "szál"
+			},
+			13: {
+				"name": "csiperkegomba",
+				"quantity": 100,
+				"mertekegyseg": "gramm"
+			},
+			14: {
+				"name": "szárított vargánya",
+				"quantity": 2,
+				"mertekegyseg": "ek"
+			},
+			15: {
+				"name": "petrezselyem",
+				"quantity": 1/2,
+				"mertekegyseg": "csokor"
+			},
+			16: {
+				"name": "tojás a csipetkéhez",
+				"quantity": 1,
+				"mertekegyseg": "tojás"
+			},
+			17: {
+				"name": "liszt a csipetkéhez",
+				"quantity": 200,
+				"mertekegyseg": "gramm"
+			},
+			18: {
+				"name": "só a csipetkéhez",
+				"quantity": 4,
+				"mertekegyseg": "csipet"
+			},
+			19: {
+				"name": "tejföl",
+				"quantity": 2,
+				"mertekegyseg": "ek"
+			},
+			20: {
+				"name": "kenyér",
+				"quantity": 2,
+				"mertekegyseg": "ek"
+			}
+		},
+		"elkeszites": ["A favágóleves elkészítéséhez a <strong>szalonnát</strong> apró, 0,5 cm-es kockákra vágjuk, majd egy lábasban, erős lángon kipirítjuk a zsírját. A lapockát felkockázzuk, és sózva, borsozva körbepirítjuk a zsíron, majd kiszedjük, és félretesszük.","A visszamaradt zsírra dobjuk a finomra vágott <strong>hagymát</strong> és <strong>fokhagymát</strong>, és a <strong>köménnyel</strong>, kevés <strong>sóval</strong>, <strong>borssal</strong> megdinszteljük. Visszarakjuk a húst, majd rákanalazzuk a <strong>paradicsomsűrítményt</strong>, amit kicsit lepirítunk, megszórjuk a <strong>pirospaprikával</strong> és a <strong>liszttel</strong>, gyorsan elkeverjük, felöntjük a vízzel, és addig főzzük, amíg a lapocka nagyjából megpuhul.","Közben a <strong>répát</strong> és a gyökeret felkarikázzuk, majd a cikkekre vágott <strong>csiperkével</strong> és a szárított gombával együtt a levesbe szórjuk, és nagyjából készre főzzük.","A csipetkéhez a hozzávalókat összegyúrjuk (Egy tojásból nagyobb adag készíthető, ezért amit ebben a levesben nem használunk fel, azt érdemes picit belisztezni, hűvös helyen, letakarva tárolni, és egy héten belül egy másik levesben felhasználni.), majd két ujjunkkal csippentünk a tésztából, amit megsodorva egy deszkára gyűjtünk. A levesbe szórjuk a felaprított <strong>petrezselyemmel</strong> együtt, és további 10 perc alatt készre főzzük. <strong>Tejföllel</strong> és <strong>friss kenyérrel</strong> tálaljuk."
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["leves"],
+			"napszak": ["ebéd", "vacsora"]
+		},
+		"link": "https://streetkitchen.hu/levesek-es-fozelekek/favagoleves/"
+	},
+	98 : {
+		"name": "Brokkolis-vörös pesztós tészta",
+		"szemelyszam": 2,
+		"hozzavalok": {
+			1: {
+				"name": "bacon",
+				"quantity": 6,
+				"mertekegyseg": "szelet"
+			},
+			2: {
+				"name": "fokhagyma",
+				"quantity": 2,
+				"mertekegyseg": "gerezd"
+			},
+			3: {
+				"name": "hagyma",
+				"quantity": 1,
+				"mertekegyseg": "fej"
+			},
+			4: {
+				"name": "olívaolaj",
+				"quantity": 2,
+				"mertekegyseg": "ek"
+			},
+			5: {
+				"name": "szárított paradicsomos pesztó",
+				"quantity": 5,
+				"mertekegyseg": "ek"
+			},
+			6: {
+				"name": "fehérborecet",
+				"quantity": 1,
+				"mertekegyseg": "tk"
+			},
+			7: {
+				"name": "habtejszín",
+				"quantity": 300,
+				"mertekegyseg": "ml"
+			},
+			8: {
+				"name": "rigatoni tészta",
+				"quantity": 200,
+				"mertekegyseg": "gramm"
+			},
+			9: {
+				"name": "só",
+				"quantity": "",
+				"mertekegyseg": ""
+			},
+			10: {
+				"name": "brokkoli",
+				"quantity": 350,
+				"mertekegyseg": "gramm"
+			},
+			11: {
+				"name": "parmezán",
+				"quantity": 30,
+				"mertekegyseg": "gramml"
+			},
+			12: {
+				"name": "főzővíz",
+				"quantity": 100,
+				"mertekegyseg": "ml"
+			}
+		},
+		"elkeszites": ["A <strong>bacont</strong> egy serpenyőben vagy 200 fokos sütőben megpirítjuk, majd kis darabokra törjük. Egy nagy serpenyőben megpirítjuk az apróra vágott <strong>fokhagymát</strong> és <strong>hagymát</strong> az olajon. Rárakjuk a <strong>pesztót</strong>, az <strong>ecetet</strong>, a <strong>tejszínt</strong> és felforraljuk.","Közben a tlsztét bő, sós vízben al dentére főzzük, de 4 perccel a főzési idő lejárta előtt bedobjuk a 4-5 cm-es rózsákra szedett <strong>brokkolit</strong> is. AZ egészet leszűrjük, de a <strong>főzővíz</strong> egy részét megtartjuk.","A szószalapba forgatjuk a <strong>tésztát</strong> és a <strong>brokkolit</strong>, megszórjuk <strong>reszelt sajttal</strong> és beforraljuk ey kevés főzővízzel. Tálaláskor a tészta tetejére szórjuk a <strong>ropogós bacont</strong>"
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["vegán"],
+			"napszak": ["ebéd", "vacsora"]
+		},
+		"source": "SK Tavaszi 2022"
+	},
+	99 : {
+		"name": "Zabpelyhes-bogyós gyömölcsös muffin",
+		"szemelyszam": 2,
+		"hozzavalok": {
+			1: {
+				"name": "zabpehely",
+				"quantity": 120,
+				"mertekegyseg": "gramm"
+			},
+			2: {
+				"name": "liszt",
+				"quantity": 200,
+				"mertekegyseg": "gramm"
+			},
+			3: {
+				"name": "kókuszvirágcsokor",
+				"quantity": 130,
+				"mertekegyseg": "gramm"
+			},
+			4: {
+				"name": "sütőpor",
+				"quantity": 1,
+				"mertekegyseg": "csomag"
+			},
+			5: {
+				"name": "só",
+				"quantity": 1,
+				"mertekegyseg": "csipet"
+			},
+			6: {
+				"name": "tojás",
+				"quantity": 2,
+				"mertekegyseg": "db"
+			},
+			7: {
+				"name": "kókuszolaj",
+				"quantity": 100,
+				"mertekegyseg": "gramm"
+			},
+			8: {
+				"name": "tej",
+				"quantity": 100,
+				"mertekegyseg": "ml"
+			},
+			9: {
+				"name": "vaníliaarom",
+				"quantity": 1,
+				"mertekegyseg": "tk"
+			},
+			10: {
+				"name": "fagyasztott bogyós gyümölcs",
+				"quantity": 100,
+				"mertekegyseg": "gramm"
+			}
+		},
+		"elkeszites": ["EGy keverőtálban összekeverjük a száraz kozzávalókat: a <strong>zabpelyhet</strong>, a <strong>lisztet</strong>, a <strong>kókuszvirágcukrot</strong>, a <strong>sütőport</strong> és a <strong>sót</strong>. Ehhez mehet hozzá a <strong>tojás</strong>, az <strong>olvasztott kókuszolaj</strong>, a <strong>tej</strong> és a <strong>vaníliaaroma</strong>. Jól elkeverjük a <strong>tésztát</strong>, majd muffinpapírral bélelt muffinsütőt formába kanalazzuk a keveréket.","A fagyasztott <strong>bogyós gyümölcsöket</strong> megszórjuk 1 ek <strong>kókuszvirágcukorral</strong>, hogy ne legyenek nagyon savanyúak, amikor beleharapunk a sütibe. A muffinjaink tetejére szórunk a <strong>gyümölcsökből</strong>, párat belenyomkodunk a közepükbe.","180 fokra előemelgített, légkeveréses sütőbe tesszük őket, majd kb. 20 perc alatt aranybarnára sütjük. Hagyjuk szoba-hőmérsékletűre hülni, már ha tudunk addig várni."
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["édes desszert"],
+			"napszak": ["tízórai", "uzsonna"]
+		},
+		"source": "SK Tavaszi 2022"
+	},
+	100 : {
+		"name": "Gombapörkölt tarhonyával",
+		"szemelyszam": 4,
+		"hozzavalok": {
+			1: {
+				"name": "csiperke",
+				"quantity": 500,
+				"mertekegyseg": "gramm"
+			},
+			2: {
+				"name": "füstölt szalonna",
+				"quantity": 120,
+				"mertekegyseg": "gramm"
+			},
+			3: {
+				"name": "nagy szemű rusztikus tarhonya",
+				"quantity": 400,
+				"mertekegyseg": "gramm"
+			},
+			4: {
+				"name": "fokhagyma",
+				"quantity": 4,
+				"mertekegyseg": "gerezd"
+			},
+			5: {
+				"name": "közepes vöröshagyma",
+				"quantity": 1,
+				"mertekegyseg": "darab"
+			},
+			6: {
+				"name": "paprika",
+				"quantity": 1,
+				"mertekegyseg": "db"
+			},
+			7: {
+				"name": "paradicsom",
+				"quantity": 1/2,
+				"mertekegyseg": "darab"
+			},
+			8: {
+				"name": "pirospaprika",
+				"quantity": 2,
+				"mertekegyseg": "púpozott teáskanál"
+			},
+			9: {
+				"name": "só bors",
+				"quantity": "",
+				"mertekegyseg": ""
+			},
+			10: {
+				"name": "víz",
+				"quantity": 1,
+				"mertekegyseg": "liter"
+			},
+			11: {
+				"name": "tejföl",
+				"quantity": 200,
+				"mertekegyseg": "gramm"
+			},
+			12: {
+				"name": "tejszín",
+				"quantity": 1,
+				"mertekegyseg": "ml"
+			},
+			13: {
+				"name": "parmezán",
+				"quantity": 20,
+				"mertekegyseg": "gramm"
+			},
+			14: {
+				"name": "petrezselyem",
+				"quantity": 1,
+				"mertekegyseg": "csokor"
+			}
+		},
+		"elkeszites": ["A normál méretű  <strong>gombákat</strong> félbe, a nagyobbakat szárral együtt négybe vágjuk. Száraz, forró lábasban addig pirítjuk, amíg barnulni kezdenek, utána kiszedjük őket. A helyükre tesszük a kockákra vágott <strong>szalonnát</strong> bőrrel egütt, tepertősre sütjük, majd kiszedjük. A <strong>zsír</strong> felét kikanalazzuk, a maradékban aranybarnára pirítjuk a <strong>tarhonyát</strong> és ezt is kivesszük.","Visszatesszük a félretett <strong>zsírt</strong> és a <strong>szalonnát</strong>, lepirítjuk a <strong>zúzott fokhagymát</strong>, majd hozzáadjuk a finomra vágott <strong>vöröshagymát</strong>, <strong>paprikát</strong> és <strong>paradicsomot</strong>, és 5 percig pirítjuk. 50 ml <strong>vizet</strong> öntünk rá, ekkor mehet bele a <strong>pirospaprika</strong>, visszapirítjuk és hozzáadjuk a <strong>gombát</strong>. 5 percig pároljuk, közben <strong>sózzuk</strong>, <strong>borsozzuk</strong>.","Beletesszük a megpirított <strong>tarhonyát</strong>, felöntjük a <strong>vízzel</strong> és lefedve 20 percig főzzük. Belekverjük a <strong>tejfölt</strong> és a <strong>tejszínt</strong>. Amikor újra felforrt, a lefedett lábast 35 percre a 150 fokra előmelegített sütőbe tesszük. Még forrón belekeverjük a lereszelt <strong>parmezánt</strong> és az aprított <strong>petrezselymet</strong>."
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["vegán"],
+			"napszak": ["ebéd", "vacsora"]
+		},
+		"source": "A Nagy Tésztakönyv 249. old"
+	},
+	101 : {
+		"name": "Medvehagymapesztós-tejszínes-csirkés tészta",
+		"szemelyszam": 2,
+		"hozzavalok": {
+			1: {
+				"name": "pappardelle tészta a tésztához",
+				"quantity": 200,
+				"mertekegyseg": "gramm"
+			},
+			2: {
+				"name": "olívaolaj a tésztához",
+				"quantity": 3,
+				"mertekegyseg": "ek"
+			},
+			3: {
+				"name": "salottahagyma a tésztához",
+				"quantity": 50,
+				"mertekegyseg": "gramm"
+			},
+			4: {
+				"name": "csirkemellfilé a tésztához",
+				"quantity": 300,
+				"mertekegyseg": "gramm"
+			},
+			5: {
+				"name": "só bors a tésztához",
+				"quantity": "",
+				"mertekegyseg": ""
+			},
+			6: {
+				"name": "friss citromlé a tésztához",
+				"quantity": 2,
+				"mertekegyseg": "tk"
+			},
+			7: {
+				"name": "habtejszín a tésztához",
+				"quantity": 300,
+				"mertekegyseg": "ml"
+			},
+			8: {
+				"name": "tészta főzővizéből a tésztához",
+				"quantity": 150,
+				"mertekegyseg": "ml"
+			},
+			9: {
+				"name": "12 hónapig érlelt kemény sajt a tésztához",
+				"quantity": 20,
+				"mertekegyseg": "gramm"
+			},
+			10: {
+				"name": "friss medvehagyma a pesztóhoz",
+				"quantity": 1,
+				"mertekegyseg": "csokor"
+			},
+			11: {
+				"name": "pirított mandula a pesztóhoz",
+				"quantity": 20,
+				"mertekegyseg": "gramm"
+			},
+			12: {
+				"name": "12 hónapig érlelt kemény sajt a pesztóhoz",
+				"quantity": 30,
+				"mertekegyseg": "gramm"
+			},
+			13: {
+				"name": "olívaolaj a pesztóhoz",
+				"quantity": 7,
+				"mertekegyseg": "ek"
+			}
+		},
+		"elkeszites": ["A <strong>tésztát</strong> al dentére főzzük, majd leszűrjük, de a <strong>főzővizéből</strong> kb. 150 ml-t megtartunk. A <strong>tésztát</strong> összekverjük <strong>1 ek olajjal</strong>, hogy ne tapadjon össze.","A pesztó hozzávalóit egy aprítógépben lezúzzuk. A <strong>hagymát</strong> finomra, a <strong>csirkemellet</strong> 2-3 cm-es kockára vágjuk.","Egy nagyobb serpenyőben felmelegítünk 2 ek <strong>olajat</strong>, rádobjuk a <strong>csirkemellet</strong>, <strong>sózzuk</strong>, <strong>borsozzuk</strong> és ha kifehéredett, a <strong>hagyma</strong> is mehet rá. Lepirítjuk kicsit, majd ráöntjük a <strong>pesztót</strong>, a <strong>citromlevet</strong> és a <strong>tejszínt</strong>","Összeforraljuk, belekverjük a tésztát, hozzáadjuk a főzővizet, majd ha szépen besűrűsödött a szósz, levesszük a tűzhelyről és a tálalásnál ráreszeljük a <strong>sajtot</strong>."
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["tészta"],
+			"napszak": ["ebéd", "vacsora"]
+		},
+		"source": "SK Tavaszi 2022 15. old"
+	},
+	102 : {
+		"name": "Májgombócleves",
+		"szemelyszam": 2,
+		"hozzavalok": {
+			1: {
+				"name": "szikkadt kenyér a májgombóchoz",
+				"quantity": 120,
+				"mertekegyseg": "gramm"
+			},
+			2: {
+				"name": "meleg tej a májgombóchoz",
+				"quantity": 150,
+				"mertekegyseg": "ml"
+			},
+			3: {
+				"name": "marhamáj a májgombóchoz",
+				"quantity": 300,
+				"mertekegyseg": "gramm"
+			},
+			4: {
+				"name": "borjúmáj a májgombóchoz",
+				"quantity": 300,
+				"mertekegyseg": "gramm"
+			},
+			5: {
+				"name": "tojás a májgombóchoz",
+				"quantity": 1,
+				"mertekegyseg": "db"
+			},
+			6: {
+				"name": "fokhagyma a májgombóchoz",
+				"quantity": 1,
+				"mertekegyseg": "gerezd"
+			},
+			7: {
+				"name": "puha vaj a májgombóchoz",
+				"quantity": 40,
+				"mertekegyseg": "gramm"
+			},
+			8: {
+				"name": "morzsolt majoránna a májgombóchoz",
+				"quantity": 2,
+				"mertekegyseg": "tk"
+			},
+			9: {
+				"name": "friss petrezselyem a májgombóchoz",
+				"quantity": 1,
+				"mertekegyseg": "csokor"
+			},
+			10: {
+				"name": "zsemlemorzsa a májgombóchoz",
+				"quantity": 5,
+				"mertekegyseg": "ek"
+			},
+			11: {
+				"name": "finomliszt a májgombóchoz",
+				"quantity": 6,
+				"mertekegyseg": "ek"
+			},
+			12: {
+				"name": "só bors a májgombóchoz",
+				"quantity": "",
+				"mertekegyseg": ""
+			},
+			13: {
+				"name": "marhaalaplé a leveshez",
+				"quantity": 1.5,
+				"mertekegyseg": "liter"
+			},
+			14: {
+				"name": "sárgarépa a leveshez",
+				"quantity": 1,
+				"mertekegyseg": "szál"
+			},
+			15: {
+				"name": "fehérrépa a leveshez",
+				"quantity": 1,
+				"mertekegyseg": "szál"
+			},
+			16: {
+				"name": "zsemlemorzsa a leveshez",
+				"quantity": 5,
+				"mertekegyseg": "ek"
+			},
+			17: {
+				"name": "friss petrezselyem a tálaláshoz",
+				"quantity": "",
+				"mertekegyseg": ""
+			}
+		},
+		"elkeszites": ["A májgombüchoz a <strong>kenyeret</strong> kis kockákra vágjuk és beáztatjuk a <strong>tejbe</strong>. Azért csak ennyibe, mert nem fogjuk kinyomkodni", "Egy aprítóban lezúzzuk a kétféle <strong>májat</strong>, majd belerakjuk egy keverőtálba. Hozzáadjuk a <strong>tojást</strong>, a <strong>beáztatott kenyeret</strong>, a <strong>zúzott fokhagymát</strong>, a <strong>vajat</strong>, a <strong>majoraánnát</strong>, az <strong>apróra vágott petrezselymet</strong>, a <strong>zsemlemorzsát</strong> és a <strong>lisztet</strong>, valamint <strong>sózzuk</strong>, <strong>borsozzuk</strong>. Alaposan összekeverjük, és lefedve 1 órára a hűtőbe tesszük.","A leves többi részéhez az alaplevet felforraljuk, belerakjuk a kic kockákra vágott <strong>répát</strong>, <strong>fehérrépát</strong> és addig főzzük, amíg egy kicsit megpuhulnak.","A májas keverékből kb. 8 gombócot kell kapnunk, amit vizess kézzel érdemes megformázni, ezután gyöngyöző, sós vízben elkezdjük főzni. Ha feljött a víz tetehére, onnantól számítve még 15 percet főzzük, majd kiszedjk egy tálba.","A levest a <strong>zöldségekkel</strong> és a <strong>gombóccal</strong> tállaljuk. Ha szeretjük, megszórhatjuk <strong>friss petrezselyemmel</strong>."
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["leves"],
+			"napszak": ["ebéd", "vacsora"]
+		},
+		"source": "SK Tél 2022 37. old"
+	},
+	104 : {
+		"name": "Karfiolrizzsel töltött cukkini",
+		"szemelyszam": 2,
+		"hozzavalok": {
+			1: {
+				"name": "nagy cukkini",
+				"quantity": 1,
+				"mertekegyseg": "db"
+			},
+			2: {
+				"name": "kisebb karfiol",
+				"quantity": 1,
+				"mertekegyseg": "db"
+			},
+			3: {
+				"name": "kis fej vöröshagyma",
+				"quantity": 1,
+				"mertekegyseg": "db"
+			},
+			4: {
+				"name": "fokhagyma",
+				"quantity": 3,
+				"mertekegyseg": "gerezd"
+			},
+			5: {
+				"name": "krémsajt",
+				"quantity": 100,
+				"mertekegyseg": "gramm"
+			},
+			6: {
+				"name": "bacon",
+				"quantity": 8,
+				"mertekegyseg": "szelet"
+			},
+			7: {
+				"name": "só bors",
+				"quantity": "",
+				"mertekegyseg": ""
+			}
+		},
+		"elkeszites": ["A <strong>karfiolt</strong> rózsáira szedjük és egy aprítógépben lezúzzuk (itt is az a fontos, hogy a rizsszem méretű darabok legyenek belőle, ne pedig püré).","Az apróra vágott <strong>vöröshagymát</strong> üvegesre pároljuk, rádobjuk a <strong>karfiolrizst</strong>, és gyorsan átpirítjuk az egészet, hozzáadjuk a <strong>krémsajtot</strong>, végül sózzuk és borsozzuk (és itt bármilyen fűszerrel is variálhatjáok).","A <strong>cukkinit</strong> félbevágjuk, kikaparjuk a belső részét és megtöltjük a <strong>krémsajtos karfiolrizssel</strong>.","A <strong>baconszeletekkel</strong> szépen körbetekerjük a <strong>cukkinit</strong> és 180 fokos sütőben 20 perc alatt készre sütjük őket."
+
+],
+		"forras": "Street Kitchen",
+		"type": {
+			"jelleg": ["vega"],
+			"napszak": ["ebéd", "vacsora"]
+		},
+		"source": "Megúszós kaják 184. old"
 	}
 
 }
